@@ -1,0 +1,28 @@
+
+
+.recuadro{
+  background-color: #fff;
+}
+body {
+  background-color: aqua;
+  background-image: radial-gradient(pink, aqua);
+  background-image: url(./Cake_Isometric.svg);
+}
+
+h1{text-align: center;
+    font-family: roboto;
+    font-weight: 600;
+}
+.lista1{
+background-color: palevioletred;
+width: 500px;
+font-family: cursive;
+}
+
+.lista2{
+background-color: palevioletred;
+width: 500px;
+font-family: cursive;
+}
+
+
